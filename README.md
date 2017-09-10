@@ -12,16 +12,16 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 |HTML5      |Figma | Handlebars                 |   | Heroku         |                |
 |CSS3       |       |                |           | User Testing & Research            |                |
 
-### Current Project 
-~~~~
+### Current Projects 
+
 * Add info 
-~~~
+
 ### Work 
 
 #### Mondelez
-~~~
+
 * add info
-~~~
+
 
 ### Education
 
