@@ -27,10 +27,8 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 
 #### 2017 June - Present: Founders & Coders
 
-~~~
-What is Founders and Coders? 
 A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI and security.  
-~~~
+
 
 **Technologies covered**: Javascript, Node.js, HTML5, CSS3, Markdown, Express, Tape, Git, Github, Heroku, npm, PostgresSql, TDD and Agile methodologies
 
