@@ -12,14 +12,16 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 |HTML5      |Figma | Handlebars                 |   | Heroku         |                |
 |CSS3       |       |                |           | User Testing & Research            |                |
 
-
+### Current Project 
+~~~~
+* Add info 
+~~~
 ### Work 
 
 #### Mondelez
-
+~~~
 * add info
-
-
+~~~
 
 ### Education
 
@@ -30,7 +32,9 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 **Technologies covered**: Javascript, Node.js, HTML5, CSS3, Markdown, Express, Tape, Git, Github, Heroku, npm, PostgresSql, TDD and Agile methodologies
 
 #### 2011-2014: University of Warwick, BSci Maths, Operational Research, Statistics & Economics, 2:1
+~~~
 * Add info
+~~~
 
 #### 2003-2010: Ranelagh School							    
 
