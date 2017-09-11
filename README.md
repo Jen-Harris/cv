@@ -1,5 +1,4 @@
-# WIP 
-# Jen Harris - CV
+# Jen Harris - Resume
 
 _*Web Developer and aspiring UX designer passionate about building useable and beautiful products built to a high quality.*_	
 
