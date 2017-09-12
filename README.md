@@ -8,7 +8,7 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 |:---------:|:---------:|:----------------------:|:---------:|:--------------:|:--------------:|
 |Javascript |Pen & Paper | Node.js                 | Tape      | Git & Github            | PostgresSql          |
 |Markdown   |Invision | Express                 | CodeCov      | Accessibility          |       |
-|HTML5      |Figma | Handlebars                 | Travis CI  | Heroku         |                |
+|HTML5      |Figma | Handlebars                 | Travis CI  | Agile        |                |
 |CSS3       |       |                |           | User Testing & Research            |                |
 
 ## Current Projects 
@@ -35,9 +35,6 @@ September 2015 - February 2016
 ![](https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png)
 
 A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI and security.  
-
-
-**Technologies covered**: Javascript, Node.js, HTML5, CSS3, Markdown, Express, Tape, Git, Github, Heroku, npm, PostgresSql, TDD and Agile methodologies
 
 ### University of Warwick
 ![](http://globaleducationexperience.com/wp-content/uploads/2015/10/Warwick.png "Warwick Logo")
