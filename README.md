@@ -55,4 +55,4 @@ __2008__ GCSE 11 Subjects, grades A* & A
 * Food :eggplant:
 
 ## Contact
-Email: jennifer.louise.harris@gmail.com | [LinkedIn](https://www.linkedin.com/in/jennifer-harris-291581a3/) 
+jennifer.louise.harris@gmail.com | [LinkedIn](https://www.linkedin.com/in/jennifer-harris-291581a3/) 
