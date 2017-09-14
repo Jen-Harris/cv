@@ -34,7 +34,7 @@ September 2015 - February 2016
 ### Founders & Coders
 ![](https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png)
 
-A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI and security.  
+A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI, performance, PWAs and security.  
 
 ### University of Warwick
 ![](http://globaleducationexperience.com/wp-content/uploads/2015/10/Warwick.png "Warwick Logo")
