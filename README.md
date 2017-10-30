@@ -14,8 +14,11 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 ## Projects
 Check out my [portfolio](https://github.com/Jen-Harris/portfolio) :ledger:
 
-## Work 
-
+## Work   
+### Founder & Coders  
+![](https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png)
+#### Freelance Designer and Developer
+October 2017 - Present  
 ### Mondelez
 ![](http://www.underconsideration.com/brandnew/archives/mondelez_logo_detail.gif)
 
