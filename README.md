@@ -10,6 +10,7 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 |Markdown   |Invision | Express                 | CodeCov      | Accessibility          |       |
 |HTML5      |Figma | Handlebars                 | Travis CI  | Agile        |                |
 |CSS3       |       |                |           | User Testing & Research            |                |
+|Elm    |       |                |           |             |                |
 
 ## Projects
 Check out my [portfolio](https://github.com/Jen-Harris/portfolio) :ledger:
