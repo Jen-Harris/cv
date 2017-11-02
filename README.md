@@ -15,21 +15,21 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 Check out my [portfolio](https://github.com/Jen-Harris/portfolio) :ledger:
 
 ## Work   
-### Founder & Coders  
-![](https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png)
-#### Freelance Designer and Developer
-October 2017 - Present  
-### Mondelez
-![](http://www.underconsideration.com/brandnew/archives/mondelez_logo_detail.gif)
+- ### Founder & Coders  
+  ![](https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png)
+  #### Freelance Designer and Developer
+  October 2017 - Present  
+- ### Mondelez
+  ![](http://www.underconsideration.com/brandnew/archives/mondelez_logo_detail.gif)
 
-#### Junior Brand Manager, Philadelphia
-August 2016 - May 2017
+  #### Junior Brand Manager, Philadelphia
+  August 2016 - May 2017
 
-#### Junior Brand Manager, Mikado & Oreo
-February 2016 - August 2016
-
-#### Sales Development Executive
-September 2015 - February 2016
+  #### Junior Brand Manager, Mikado & Oreo
+  February 2016 - August 2016
+  
+  #### Sales Development Executive
+  September 2015 - February 2016
 
 ## Education
 
