@@ -4,13 +4,13 @@ _*Web Developer and aspiring UX designer passionate about building useable and b
 
 ## Skills
 
-|Languages   |Design   |Frameworks / Libraries | Testing   | Tools / Others | Databases      |
-|:---------:|:---------:|:----------------------:|:---------:|:--------------:|:--------------:|
-|Javascript |Pen & Paper | Node.js                 | Tape      | Git & Github            | PostgresSql          |
-|Markdown   |Invision | Express                 | CodeCov      | Accessibility          |       |
-|HTML5      |Figma | Handlebars                 | Travis CI  | Agile        |                |
-|CSS3       |User Testing & Research         |Elm                |           |           |                |
-
+|Languages   |Design   |Frameworks / Libraries | Testing   | Tools / Others | 
+|:---------:|:---------:|:----------------------:|:---------:|:--------------:|
+|Javascript |Pen & Paper | Node.js                 | Tape      | Git & Github            | 
+|HTML5   |Sketch | Express                 | CodeCov      | Accessibility          |      
+|CSS3     |Invision | Handlebars                 | Travis CI  | Agile        |      
+|Markdown       |Figma         | Bootstrap               |           |           |        
+|Elm      |User Testing & Research         | Tachyons               |           |           |
 ## Projects
 Check out my [portfolio](https://github.com/Jen-Harris/portfolio) :ledger:
 
